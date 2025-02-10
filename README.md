@@ -1,99 +1,68 @@
-# TRACE
-Trace: Detecting Unusual Drug Activity on Social Media
+# Trace - Uncovering Drug Dealing Activities
 
-Hey There! 👋
+**Trace** is a web application designed to identify and trace unusual drug dealing activities across various social media platforms like Telegram, Twitter, and WhatsApp. 
 
-Welcome to Trace, a project that tracks sketchy drug-dealing activities on social media by analyzing images and messages. We scrape real-time data from Telegram, Twitter, and WhatsApp to flag unusual patterns and help keep things clean.
+**Key Features:**
 
-This repo has two main parts:
+* **Real-time Data Scraping:** 
+    * Continuously collects data (images, messages, user interactions) from target social media platforms.
+    * Employs advanced scraping techniques to efficiently gather relevant information.
+* **AI-Powered Analysis:** 
+    * Utilizes machine learning models to analyze scraped data for patterns and anomalies indicative of drug dealing.
+    * Identifies suspicious keywords, phrases, emojis, and image content.
+    * Detects unusual user behavior and interactions.
+* **Interactive Visualization:**
+    * Presents analyzed data through intuitive dashboards and visualizations.
+    * Enables easy exploration of trends, connections, and potential drug trafficking networks.
+* **Alert System:** 
+    * Generates real-time alerts for suspicious activities.
+    * Notifies relevant authorities of potential drug dealing incidents.
 
-Frontend: The UI to see all the cool (and important) data.
+**Project Structure:**
 
-Backend: The brain behind data scraping, image/message analysis, and detecting shady stuff.
+* **frontend:** 
+    * Contains all the front-end code, including HTML, CSS, and JavaScript.
+    * Implements the user interface for data visualization and interaction.
+* **backend:** 
+    * Handles data scraping, processing, and analysis.
+    * Contains scripts for:
+        * **Telegram scraping:** Extracts messages, user profiles, and media from Telegram groups and channels.
+        * **Twitter scraping:** Gathers tweets, user profiles, and media related to drug-related keywords.
+        * **WhatsApp scraping:** Collects messages, media, and user information from WhatsApp groups (with appropriate ethical considerations and user consent).
+    * Implements machine learning models for data analysis and anomaly detection.
+    * Integrates with a database to store and manage collected data.
 
-Project Structure
+**Note:**
 
-Trace/
-├── frontend/       # The visual side of things
-└── backend/        # Where the data magic happens
+* This project focuses on ethical and responsible data collection and analysis. 
+* Ensure compliance with all applicable laws and regulations regarding data privacy and security.
+* This project is for research and educational purposes only and should not be used for illegal activities.
 
-Frontend
+**Getting Started:**
 
-The frontend is your window into all the action:
-
-See detected drug-related messages
-
-Analyze patterns from image data
-
-Get reports and alerts
-
-Built with modern web stuff for a smooth experience.
-
-Backend
-
-The backend handles the heavy lifting:
-
-Data Scraping: Grabbing data from Telegram, Twitter, and WhatsApp
-
-Data Processing: Breaking down images and text to find drug-related content
-
-Anomaly Detection: Smart algorithms to spot weird patterns
-
-Cool Features 🚀
-
-Real-time Data Collection: Keeps the data fresh
-
-Smart Detection: Analyzes both images and text to flag issues
-
-Alerts & Reporting: Get notified when something fishy is found
-
-Secure & Scalable: Built to handle big data safely
-
-Getting Started
-
-What You Need
-
-Node.js (for the frontend)
-
-Python 3.x (for the backend)
-
-MongoDB (or your favorite database)
-
-API keys for Telegram, Twitter, and WhatsApp (if needed)
-
-Backend Setup
-
-Go to the backend folder:
-
-cd backend
-
-Install the goodies:
-
-pip install -r requirements.txt
-
-Fire up the server:
-
-python app.py
-
-Frontend Setup
-
-Jump into the frontend folder:
-
-cd frontend
-
+1. **Clone the repository:**
+   ```bash
+   git clone <repository_url>
 Install dependencies:
 
-npm install
+Bash
 
-Start the frontend:
+cd backend
+pip install -r requirements.txt 
+cd frontend
+npm install 
+Configure environment variables:
 
-npm start
+Create a .env file in the backend directory to store sensitive information like API keys, database credentials, etc.
+Run the backend:
 
-How to Use 🛠️
+Bash
 
-Start the backend to scrape and process data.
+cd backend
+python app.py 
+Run the frontend:
 
-Open up the frontend to see what's going on.
+Bash
 
-Check out detected anomalies and alerts for sketchy stuff.
-
+cd frontend
+npm start 
