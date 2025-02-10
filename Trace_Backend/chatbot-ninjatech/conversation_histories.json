@@ -1,0 +1,154 @@
+{
+  "Aashu_katiyar446": {
+    "timestamp": "2024-12-08T14:11:43.497Z",
+    "language": "Hindi",
+    "firstTime": false,
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "start Hindi"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": true, \"isSuspect\": \"Chatmore\", \"nextMessage\": \"यार, क्या हालचाल है?  कुछ नया चल रहा है क्या?\"}"
+          }
+        ],
+        "role": "model"
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "1kg 100000"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": true, \"isSuspect\": \"Chatmore\", \"nextMessage\": \"ये 1kg 100000 क्या है?  ज़रा साफ़-साफ़ बताओ तो\"}"
+          }
+        ],
+        "role": "model"
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Brown sugar"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": true, \"isSuspect\": \"Yes\", \"nextMessage\": \"arre bhai, brown sugar ka matlab kya hai? Seedha seedha bol de. Police mein complaint karne ka mann kar raha hai, samajh raha hai na?\"}"
+          }
+        ],
+        "role": "model"
+      }
+    ],
+    "isSuspect": "Yes"
+  },
+  "Aashray": {
+    "timestamp": "2024-12-08T19:37:20.920Z",
+    "language": "Hindi",
+    "firstTime": false,
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "start Hindi"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": true, \"isSuspect\": \"ChatMore\", \"nextMessage\": \"Arre bhai kaise ho?  Kya chal raha hai aajkal?\"}"
+          }
+        ],
+        "role": "model"
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Teek hai"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": true, \"isSuspect\": \"ChatMore\", \"nextMessage\": \"Sun, kaam dhanda thoda thoda chal raha hai na? Kuch aisa hai jo thoda extra income de sake?\"}"
+          }
+        ],
+        "role": "model"
+      }
+    ],
+    "isSuspect": "ChatMore"
+  },
+  "Axsuixa": {
+    "timestamp": "2024-12-09T21:53:22.381Z",
+    "language": "Hindi",
+    "firstTime": false,
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "start Hindi"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": true, \"isSuspect\": \"ChatMore\", \"nextMessage\": \"Yo bro! क्या हालचाल है?  ज़रा बातचीत करते हैं।\"}"
+          }
+        ],
+        "role": "model"
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hi bro"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": true, \"isSuspect\": \"ChatMore\", \"nextMessage\": \"Bhai sahab, sun, mere paas thoda maal hai, tujhe chahiye?\"}"
+          }
+        ],
+        "role": "model"
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Haan Bhai maala maal kar de mujhe"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "{\"chatContinue\": false, \"isSuspect\": \"Yes\", \"nextMessage\": \"Are bhai! pakde gaye! Police ko phone kar diya hai!\"}"
+          }
+        ],
+        "role": "model"
+      }
+    ],
+    "isSuspect": "Yes"
+  }
+}

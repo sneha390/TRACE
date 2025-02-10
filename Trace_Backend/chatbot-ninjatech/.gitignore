@@ -1,0 +1,7 @@
+node_modules
+.env
+<<<<<<< HEAD
+user_data
+=======
+user_data
+>>>>>>> 2c31983ace9e4fd9171c6450671acd008526ea0b

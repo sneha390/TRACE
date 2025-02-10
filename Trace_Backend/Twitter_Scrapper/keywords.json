@@ -1,0 +1,106 @@
+{
+  "Marijuana": [
+    "hash", "grass", "Mary Jane", "reefer", "cannabis", "hemp", "herb", "skunk",
+    "Pot", "Boom", "chronic"
+  ],
+  "Synthetic Marijuana": [
+    "K-2", "Spice", "Fake Weed", "Gold Spice"
+  ],
+  "Marijuana Concentrates": [
+    "Hash Oil", "710", "Dabs", "Dabbing", "Amber", "Honey"
+  ],
+  "Heroin": [
+    "Big H", "Brown Sugar", "Antifreeze", "Cheese (When mixed with Cough Medicine)",
+    "Horse", "Junk", "Mug", "Tar", "Train", "Skag"
+  ],
+  "Bath Salts": [
+    "Arctic Blast", "Blue Magic", "Cloud 9", "Cloud 10", "Ivory Fresh", "Lady Bubbles",
+    "Meow Meow", "Snow Leopard", "White China", "China Girl", "Vanilla Sky", "Wicked X"
+  ],
+  "Cough & Cold Medicine": [
+    "C-C-C", "Dex", "DM", "DMX", "Skittles", "Triple C", "Tussin", "Vitamin D", 
+    "Purple Dank", "barre", "Bo", "Lean", "Purple", "Jelly", "Sip-Sip", "Sizzup", 
+    "Texas Tea"
+  ],
+  "Inhalants": [
+    "Duster", "Snappers", "Ozone", "Poppers", "Whit-its/Whippets", "nitrous"
+  ],
+  "Methamphetamines": [
+    "Meth", "Chalk", "Crank", "Crystal", "Crystal Meth", "Glass", "Ice", "Speed"
+  ],
+  "Mushrooms": [
+    "Shrooms", "Caps", "Boomers", "Magic Mushrooms", "Purple Passion"
+  ],
+  "Cocaine": [
+    "Blow", "C", "candy", "coke", "do a line", "freeze", "girl", "happy dust", 
+    "Mama coca", "mojo", "monster", "nose", "pimp", "shot", "smoking gun", 
+    "snow", "sugar", "sweet stuff", "white powder"
+  ],
+  "Crack": [
+    "Base", "beat", "blast", "casper", "chalk", "devil drug", "gravel", "hardball",
+    "hell", "kryptonite", "love", "moonrocks", "rock", "scrabble", "stones", "tornado"
+  ],
+  "Depressants": [
+    "Backwards", "blue heavens", "downie", "drowsy high", "green dragons", 
+    "idiot pills", "joy juice", "M&M", "no worries", "peanut", "rainbows", 
+    "red bullets", "stoppers", "stumbler", "tooles", "yellow"
+  ],
+  "Fentanyl": [
+    "Apache", "China girl", "China town", "dance fever", "friend", "goodfellas", 
+    "great bear", "he-man", "jackpot", "king ivory", "murder 8", "poison", 
+    "tango and cash", "TNT"
+  ],
+  "GHB": [
+    "Caps", "cherry meth", "ever clear", "easy lay", "fantasy", "G", "G-riffic", 
+    "gamma hydrate", "Georgia home boy", "grievous bodily harm", "liquid ecstasy", 
+    "liquid X", "soap", "sodium oxybate"
+  ],
+  "Ketamine": [
+    "Bump", "cat killer", "cat valium", "fort dodge", "green", "honey oil", 
+    "jet", "K", "ket", "kit kat", "psychedelic heroin", "purple", "special K", 
+    "special la coke", "super acid", "super C", "vitamin K"
+  ],
+  "LSD": [
+    "A", "Acid", "black star", "blotter", "boomers", "cubes", "Elvis", 
+    "golden dragon", "L", "microdot", "paper acid", "pink robots", "superman", 
+    "twenty-five", "yellow sunshine", "ying yang"
+  ],
+  "MDMA": [
+    "Adam", "bean", "blue kisses", "clarity", "club drug", "disco biscuits", 
+    "E", "ecstasy", "hug drug", "love drug", "lover's speed", "Mercedes", 
+    "Molly", "New Yorkers", "peace", "roll", "white dove", "X", "XTC"
+  ],
+  "Methcathinone": [
+    "Bathtub speed", "Cadillac express", "cat", "crank", "ephedrone", "gagers", 
+    "go-fast", "goob", "qat", "slick superspeed", "star", "the C", "tweeker", 
+    "wild cat", "wonder star"
+  ],
+  "Opium": [
+    "Ah-pen-yen", "aunti", "big O", "black stuff", "Chinese tobacco", "chocolate", 
+    "dopium", "dover's deck", "dream gun", "hard stuff", "hocus", "joy plant", 
+    "O", "ope", "pin yen", "toxy", "zero"
+  ],
+  "PCP": [
+    "Angel dust", "belladonna", "black whack", "CJ", "cliffhanger", "crystal joint", 
+    "Detroit pink", "elephant tranquilizer", "hog", "magic", "Peter Pan", 
+    "sheets", "soma", "TAC", "trank", "white horizon", "zoom"
+  ],
+  "Psilocybin/psilocin": [
+    "Boomers", "god's flesh", "little smoke", "magic mushroom", "Mexican mushrooms", 
+    "mushrooms", "musk", "sherm", "shrooms", "silly putty", "simple simon"
+  ],
+  "Ritalin": [
+    "Crackers", "one and ones", "pharming", "poor man's heroin", "R-ball", 
+    "ritz an ts", "set", "skippy", "speedball", "ts and ritz", "ts and rs", 
+    "vitamin R", "west coast"
+  ],
+  "Rohypnol": [
+    "Circles", "forget-me pill", "la rocha", "lunch money drug", "Mexican valium", 
+    "pingus", "R2", "Reynolds", "roche", "roofies", "rope", "ruffles", "wolfies"
+  ],
+  "Steroids": [
+    "Abolic", "anadrol", "arnolds", "bolasterone", "dihydrolone", "equipose", 
+    "gym candy", "juice", "methyl testosterone", "proviron", "pumpers", 
+    "stackers", "therobolin", "weight trainers", "winstrol V"
+  ]
+}

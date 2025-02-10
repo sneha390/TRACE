@@ -1,0 +1,18 @@
+{
+  "name": "chatbot-ninjatech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sneha yadav",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "puppeteer": "^23.9.0"
+  },
+  "type": "module"
+}
